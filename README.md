@@ -2,5 +2,7 @@
 
 I'm Emirhan SENSOY - Junior Developer
 
-[![EmirhanSensoy github trophy](https://github-profile-trophy.vercel.app/?username=EmirhanSensoyy&row=1)](https://github.com/EmirhanSensoyy)
+### GitHub Analysis 📈
 
+[![Emirhan's github stats](https://github-readme-stats.vercel.app/api?username=EmirhanSensoyy&theme=blue-green)](https://github.com/EmirhanSensoyy/github-readme-stats)
+[![EmirhanSensoyy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanSensoyy&theme=blue-green)](https://github.com/EmirhanSensoyy/github-readme-stats)
