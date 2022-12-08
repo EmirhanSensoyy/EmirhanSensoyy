@@ -9,10 +9,8 @@
 ### <div align="center">I'm Emirhan Sensoy , a junior software developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on C#  
+- 🔭 I’m currently working on Front End Development
   
-
-- ⚡  I’m currently learning C# and Python  
   
 
 <div align="center">Learning is a never ending adventure</div>  
