@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Emirhan and I'm a Junior Front-End Developer, from Turkey</p>
+<p align="left">My name is Emirhan and I'm a Junior FrontEnd Developer, from Turkey</p>
 
 ###
 
