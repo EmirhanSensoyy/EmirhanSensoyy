@@ -59,7 +59,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
   </a>
 </div>
-
+ 
+ <hr>
 
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=emirhansensoyy&show_icons=true&locale=en" alt="emirhansensoyy" /></p>
